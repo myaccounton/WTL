@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="employees.xsl"?>
+
+<organization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="employees.xsd">
+
+    <employee>
+        <emp_id>301</emp_id>
+        <name>Amit Deshmukh</name>
+        <department>IT</department>
+        <experience>3</experience>
+        <contact>9012345678</contact>
+        <joining_date>2022-02-15</joining_date>
+    </employee>
+
+    <employee>
+        <emp_id>302</emp_id>
+        <name>Pooja Singh</name>
+        <department>HR</department>
+        <experience>6</experience>
+        <contact>9123456789</contact>
+        <joining_date>2018-08-20</joining_date>
+    </employee>
+
+    <employee>
+        <emp_id>303</emp_id>
+        <name>Rohit Jain</name>
+        <department>Finance</department>
+        <experience>4</experience>
+        <contact>9234567890</contact>
+        <joining_date>2021-05-10</joining_date>
+    </employee>
+
+    <employee>
+        <emp_id>304</emp_id>
+        <name>Meera Joshi</name>
+        <department>HR</department>
+        <experience>2</experience>
+        <contact>9345678901</contact>
+        <joining_date>2023-07-01</joining_date>
+    </employee>
+
+    <employee>
+        <emp_id>305</emp_id>
+        <name>Vikram Shah</name>
+        <department>Sales</department>
+        <experience>5</experience>
+        <contact>9456789012</contact>
+        <joining_date>2019-11-25</joining_date>
+    </employee>
+
+</organization>
